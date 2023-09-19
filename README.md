@@ -1,4 +1,4 @@
-# world_works
+# Coding Chronicles
 This is how to code for finding the Tile price of a given surface
 # Find  the number of Tile to Cover the W x H Floor
 
